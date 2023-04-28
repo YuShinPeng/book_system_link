@@ -1,0 +1,344 @@
+body{
+    background-color: burlywood;
+}
+
+.main{
+    width: 400px;
+    height: 350px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center;
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+    }
+
+
+    .btn{
+        margin-top: 20%;
+        display: flex;
+        justify-content: space-evenly;
+        border:none;
+        button{
+            background-color: brown;
+            border-radius: 10px;
+            border:none;
+            a{
+                text-decoration: none;
+            }
+
+        }
+    }
+
+}
+
+.main1{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center;
+
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+    }
+
+    .btn{
+        margin-top: 2%;
+        border:none;
+        display: flex;
+        flex-direction: column;
+        padding-left: 230px;
+
+        button{
+            background-color: lightsalmon;
+            border-radius: 10px;
+            border:none;
+            margin-top: 25px;
+            a{  
+                text-decoration: none;
+            }
+
+        }
+    }
+
+}
+
+.main1-1{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center; 
+    
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+
+    .detail{
+        height: 80%;
+        
+        .name{
+            margin-bottom: 20px;
+        }
+
+        .isbn{
+            margin-bottom: 20px;
+        }
+
+        .author{
+            margin-bottom: 20px;
+        }
+        
+        .price{
+            margin-bottom: 20px;
+        }
+
+        .inventory{
+            margin-bottom: 20px;
+        }
+
+        .sales{
+            margin-bottom: 20px;
+        }
+
+        .type{
+            margin-bottom: 30px;
+        }
+    }
+
+    
+
+}
+
+.main1-2{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center; 
+    
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+
+
+}
+
+
+.main1-3{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center; 
+    
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+
+    .detail{
+        height: 80%;
+        
+        .name{
+            margin-bottom: 20px;
+        }
+
+        .isbn{
+            margin-bottom: 20px;
+        }
+
+        .author{
+            margin-bottom: 20px;
+        }
+        
+        .price{
+            margin-bottom: 20px;
+        }
+
+        .inventory{
+            margin-bottom: 20px;
+        }
+
+        .sales{
+            margin-bottom: 20px;
+        }
+
+        .type{
+            margin-bottom: 30px;
+        }
+    }
+
+    button{
+        
+    }
+
+    
+}
+
+.main1-4{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center;   
+    
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+
+    .isbn{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .inventory{
+        margin-bottom: 20px;
+    }
+
+}
+
+.main1-5{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center;   
+    
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+
+    .isbn{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .price{
+        margin-bottom: 20px;
+    }
+  
+}
+
+.main2{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center;
+
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+    }
+
+    .btn{
+        margin-top: 5%;
+        border:none;
+        display: flex;
+        flex-direction: column;
+        padding-left: 250px;
+        button{
+            background-color: lightsalmon;
+            border-radius: 10px;
+            border:none;
+            margin-top: 30px;
+            a{  
+                text-decoration: none;
+            }
+
+        }
+    }
+}
+
+.main2-3{
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    margin-top: 8%;
+    text-align: center;   
+
+    h1{
+        height: 100px;
+        padding: 35px;
+        background-color: brown;
+        color:white;
+        border-radius: 10px;
+        margin-bottom: 40px;
+    }
+
+    .isbn{
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .amount{
+        margin-bottom: 20px;
+    }
+
+
+    
+}
+
